@@ -5,7 +5,6 @@
   * NodeJS
   * Framework Javascript
     ^ React
-    ^ Angular
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -30,7 +29,7 @@
 - CSS
   * Framework CSS
     ^ Sass
-    ^ boostrap
+    ^ Pure Css
 - Keamanan Website
 - Odoo
 - Aplikasi android
