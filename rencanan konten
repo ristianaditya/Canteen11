@@ -6,7 +6,6 @@
   * Framework Javascript
     ^ Vue
     ^ React
-    ^ Angular
   * Library Javascript
     ^ Highcharts.js
     ^ Numeral.js
@@ -14,6 +13,7 @@
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ Zend
 - Interview
 - Vlogs
 - Python
@@ -31,6 +31,7 @@
 - CSS
   * Framework CSS
     ^ Sass
+    ^ Pure Css
 - Keamanan Website
 - Odoo
 - Aplikasi android
